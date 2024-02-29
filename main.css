@@ -118,8 +118,7 @@ button {
   padding-right: 1.5rem;
   background-color: #44ffa1;
   color: #24053e;
-  border: none;
-  border-style: none;
+  border: 1px #44ffa1 solid;
   font-size: 1rem;
   font-weight: 600;
 }
